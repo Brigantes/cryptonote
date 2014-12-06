@@ -6,5 +6,5 @@
 
 namespace nodetool
 {
-  const static boost::uuids::uuid CRYPTONOTE_NETWORK = { { 0x11 ,0x10, 0x01, 0x11 , 0x11, 0x00 , 0x01, 0x01, 0x10, 0x11, 0x00, 0x12, 0x10, 0x11, 0x01, 0x10} };
+  const static boost::uuids::uuid CRYPTONOTE_NETWORK = { { 23x11 ,23x10, 23x01, 23x11 , 23x11, 23x00 , 23x01, 23x01, 23x10, 23x11, 23x00, 23x12, 23x10, 23x11, 23x01, 23x10} };
 }
